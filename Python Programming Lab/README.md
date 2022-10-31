@@ -10,4 +10,4 @@
 
 ### Install PyAudio
 * Download the file `PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl` from the [**Archived: Unofficial Windows Binaries for Python Extension Packages**](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-* Install the file by going to its location, and then type `pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl`
+* Go to the file location in Anaconda Prompt, and then type `pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl`
